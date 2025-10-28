@@ -1,3 +1,5 @@
 .venv/
 .vscode/settings.json
 test.py
+cuda-keyring_1.1-1_all.deb
+dpkerasandtf/tuner_results/
